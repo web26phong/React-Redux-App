@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  background-color: #3b4cca;
+}
+
+h1 {
+  color: #ffde00;
+}
+
+.pokemonListDiv {
+  border-top: solid #ff0000 1px;
+  margin: 1% 0;
+}
+
+.individualPokemonP {
+  color: #ffde00;
+}
